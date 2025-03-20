@@ -1,0 +1,8 @@
+senha supabase: t77roltB21HUWyOX
+senha n8n: 3UplqQbt480X
+
+https://escola.formacao.dev/aluno/certificados
+
+https://escola.formacao.dev/aluno/progresso
+
+* npx prisma migrate dev
