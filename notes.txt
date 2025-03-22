@@ -6,3 +6,7 @@ https://escola.formacao.dev/aluno/certificados
 https://escola.formacao.dev/aluno/progresso
 
 * npx prisma migrate dev
+* nest g pr prisma.provider --no-spec --flat(para cria arquivo de configuração do prisma)
+* npm run start:dev (para rodar a aplicação)
+* os controllers são exatamento as funções da rota que são mapiadas para Urls dentro da sua APIs
+*mvp : minimum viable product(minimo produto viavel)
