@@ -10,3 +10,4 @@ https://escola.formacao.dev/aluno/progresso
 * npm run start:dev (para rodar a aplicação)
 * os controllers são exatamento as funções da rota que são mapiadas para Urls dentro da sua APIs
 *mvp : minimum viable product(minimo produto viavel)
+* npx create-next-app@latest frontend
