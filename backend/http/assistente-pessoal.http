@@ -1,0 +1,8 @@
+POST https://fednerdev.app.n8n.cloud/webhook-test/assistente-pessoal
+Content-Type: application/json
+
+{
+    "chatId": "123456",
+    "mensagem": "Olá, assistente pessoal!"
+   
+}
